@@ -36,6 +36,7 @@ namespace GeolocalizacionProject.Controllers
                 Longitud = -74.0060
             };
 
+
             ZonaSegura zona2 = new ZonaSegura
             {
                 Id = 2,
