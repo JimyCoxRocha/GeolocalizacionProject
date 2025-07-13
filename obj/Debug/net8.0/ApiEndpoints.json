@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "GeolocalizacionProject.Controllers.ZonaSeguraController",
+    "Method": "ObtenerTodas",
+    "RelativePath": "api/v1/zonasegura/obtenerZonasSeguras",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GeolocalizacionProject.Entities.ZonaSegura[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "ZonaSeguraCliente"
+  }
+]
