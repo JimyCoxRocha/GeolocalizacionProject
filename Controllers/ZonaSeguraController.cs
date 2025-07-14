@@ -19,7 +19,6 @@ namespace GeolocalizacionProject.Controllers
 
         public ZonaSeguraController(ILogger<ZonaSeguraController> logger)
         {
-
             _logger = logger;
         }
 
@@ -47,7 +46,18 @@ namespace GeolocalizacionProject.Controllers
                 Longitud = -74.0060
             };
 
-            ZonaSegura[] zonaList = { zona1, zona2 };
+            ZonaSegura zona3 = new ZonaSegura
+            {
+                Id = 3,
+                Nombre = "Zona Segura Piscina",
+                Descripcion = "Zona segura piscina del cliente",
+                Latitud = 40.7128,
+                Longitud = -74.0060
+            };
+
+
+
+            ZonaSegura[] zonaList = { zona1, zona2, zona3 };
 
             return zonaList;
 

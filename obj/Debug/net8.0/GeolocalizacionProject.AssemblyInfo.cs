@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeolocalizacionProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfd8ac8ee4d96342ea0ddff21f9081bc61e0fcd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c62aec69d262af979405dca1349bcf8c07076425")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeolocalizacionProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeolocalizacionProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
