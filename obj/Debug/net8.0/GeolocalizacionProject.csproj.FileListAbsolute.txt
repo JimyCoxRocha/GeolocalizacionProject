@@ -31,3 +31,39 @@ C:\Users\usuario\Documents\2Project\GeolocalizacionProject\GeolocalizacionProjec
 C:\Users\usuario\Documents\2Project\GeolocalizacionProject\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.genruntimeconfig.cache
 C:\Users\usuario\Documents\2Project\GeolocalizacionProject\GeolocalizacionProject\obj\Debug\net8.0\ref\GeolocalizacionProject.dll
 C:\Users\usuario\Documents\2Project\GeolocalizacionProject\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.sourcelink.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\appsettings.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\GeolocalizacionProject.staticwebassets.endpoints.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\GeolocalizacionProject.exe
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\GeolocalizacionProject.deps.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\GeolocalizacionProject.runtimeconfig.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\GeolocalizacionProject.dll
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\GeolocalizacionProject.pdb
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.csproj.AssemblyReference.cache
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.AssemblyInfoInputs.cache
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.AssemblyInfo.cs
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.csproj.CoreCompileInputs.cache
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.sourcelink.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\scopedcss\bundle\GeolocalizacionProject.styles.css
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\Geolocal.3A22CEE8.Up2Date
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.dll
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\refint\GeolocalizacionProject.dll
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.pdb
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\GeolocalizacionProject.genruntimeconfig.cache
+C:\Users\helen\Documents\Cursos de Helen\Curso-Git\Practicas\GeolocalizacionProject\obj\Debug\net8.0\ref\GeolocalizacionProject.dll

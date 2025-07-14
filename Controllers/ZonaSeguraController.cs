@@ -66,7 +66,7 @@ namespace GeolocalizacionProject.Controllers
 
 
 
-            ZonaSegura[] zonaList = { zona1, zona2, zona3 };
+            ZonaSegura[] zonaList = { zona1, zona2, zona3, zona4 };
 
             return zonaList;
 
