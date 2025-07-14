@@ -55,6 +55,15 @@ namespace GeolocalizacionProject.Controllers
                 Longitud = -74.0060
             };
 
+            ZonaSegura zona4 = new ZonaSegura
+            {
+                Id = 4,
+                Nombre = "Zona Segura Juntas",
+                Descripcion = "Zona segura juntas del pacifico",
+                Latitud = 20.7128,
+                Longitud = -14.0060
+            };
+
 
 
             ZonaSegura[] zonaList = { zona1, zona2, zona3 };
