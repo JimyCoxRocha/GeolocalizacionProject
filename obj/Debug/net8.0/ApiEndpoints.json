@@ -2,7 +2,7 @@
   {
     "ContainingType": "GeolocalizacionProject.Controllers.ZonaSeguraController",
     "Method": "ObtenerTodas",
-    "RelativePath": "api/v1/zonasegura/obtenerZonasSeguras",
+    "RelativePath": "api/v1/zonasegura/obtenerZonas",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

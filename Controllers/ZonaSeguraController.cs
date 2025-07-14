@@ -19,6 +19,7 @@ namespace GeolocalizacionProject.Controllers
 
         public ZonaSeguraController(ILogger<ZonaSeguraController> logger)
         {
+
             _logger = logger;
         }
 
